@@ -1,0 +1,1 @@
+"./startup_ccs.obj" "./uart_echo.obj" "./drivers/frame.obj" "./drivers/kentec320x240x16_ssd2119.obj" "./drivers/pinout.obj" "../uart_echo_ccs.cmd" -llibc.a -l"D:/ti/TivaWare/driverlib/ccs/Debug/driverlib.lib" -l"D:/ti/TivaWare/grlib/ccs/Debug/grlib.lib" 
